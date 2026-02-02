@@ -1,0 +1,4 @@
+groq
+pandas
+sqlite3
+requests
